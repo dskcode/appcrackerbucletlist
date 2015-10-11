@@ -4,8 +4,8 @@
     <description>
         Ionic Restify and MongoDB - An End to End Hybrid App
     </description>
-    <author email="admin@thejackalofjavascript.com" href="http://thejackalofjavascript.com/">
-      Arvind Ravulvaru
+    <author email="dskcode@gmail.com" >
+      Darshan Kokate
     </author>
     <content src="index.html" />
     <access origin="*" />
